@@ -1,0 +1,82 @@
+﻿  computer.cpp
+D:\My_projects\lab3.1\lab3.1\computer.h(42,22): error C2065: A: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(44,3): error C2065: R: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(45,3): error C2065: D: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(46,3): error C2065: Sum1: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(46,10): error C2065: Sum1: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(46,18): error C2065: D: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(46,22): error C2065: R: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(48,8): error C2065: A: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(49,22): error C2065: A: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(51,3): error C2065: F: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(52,7): error C2065: F: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(52,21): error C2065: F: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(61,22): error C2065: A: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(65,4): error C2065: P: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(66,8): error C2065: P: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(66,12): error C2065: Pop: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(68,5): error C2065: Pop: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(68,11): error C2065: P: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(69,5): error C2065: Num: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(73,9): error C2065: Sum1: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(77,8): error C2065: A: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(78,22): error C2065: A: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(80,3): error C2065: F: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(81,7): error C2065: F: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(81,21): error C2065: F: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(90,22): error C2065: A: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(94,4): error C2065: P: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(95,8): error C2065: P: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(95,12): error C2065: Pop: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(97,5): error C2065: Pop: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(97,11): error C2065: P: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(98,5): error C2065: Num: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(102,9): error C2065: Num: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.h(104,18): error C2039: "get_cpuClock": не является членом "computer".
+D:\My_projects\lab3.1\lab3.1\computer.h(12): message : см. объявление "computer"
+D:\My_projects\lab3.1\lab3.1\computer.h(106,9): error C2065: cpu_clock: необъявленный идентификатор
+D:\My_projects\lab3.1\lab3.1\computer.cpp(11,1): error C2084: функция "int computer::get_store(void)" уже имеет текст реализации
+D:\My_projects\lab3.1\lab3.1\computer.h(112): message : см. предыдущее определение "get_store"
+D:\My_projects\lab3.1\lab3.1\computer.cpp(15,1): error C2084: функция "int computer::get_price(void)" уже имеет текст реализации
+D:\My_projects\lab3.1\lab3.1\computer.h(108): message : см. предыдущее определение "get_price"
+  main.cpp
+D:\My_projects\lab3.1\lab3.1\main.cpp(91,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\My_projects\lab3.1\lab3.1\main.cpp(110,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\My_projects\lab3.1\lab3.1\main.cpp(121,1): error C2084: функция "int computer::A2(void)" уже имеет текст реализации
+D:\My_projects\lab3.1\lab3.1\main.cpp(46): message : см. предыдущее определение "A2"
+D:\My_projects\lab3.1\lab3.1\main.cpp(139,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\My_projects\lab3.1\lab3.1\main.cpp(151,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\My_projects\lab3.1\lab3.1\main.cpp(171,32): error C2061: синтаксическая ошибка: идентификатор "cpu_clock"
+D:\My_projects\lab3.1\lab3.1\main.cpp(172,15): error C2248: computer::price: невозможно обратиться к private член, объявленному в классе "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(17): message : см. объявление "computer::price"
+D:\My_projects\lab3.1\lab3.1\main.cpp(8): message : см. объявление "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(173,15): error C2248: computer::store: невозможно обратиться к private член, объявленному в классе "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(18): message : см. объявление "computer::store"
+D:\My_projects\lab3.1\lab3.1\main.cpp(8): message : см. объявление "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(199,21): error C2248: computer::cpu_brand: невозможно обратиться к private член, объявленному в классе "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(11): message : см. объявление "computer::cpu_brand"
+D:\My_projects\lab3.1\lab3.1\main.cpp(8): message : см. объявление "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(200,21): error C2248: computer::cpu_clock: невозможно обратиться к private член, объявленному в классе "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(12): message : см. объявление "computer::cpu_clock"
+D:\My_projects\lab3.1\lab3.1\main.cpp(8): message : см. объявление "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(201,21): error C2248: computer::motherboard: невозможно обратиться к private член, объявленному в классе "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(13): message : см. объявление "computer::motherboard"
+D:\My_projects\lab3.1\lab3.1\main.cpp(8): message : см. объявление "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(202,21): error C2248: computer::harddrive: невозможно обратиться к private член, объявленному в классе "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(14): message : см. объявление "computer::harddrive"
+D:\My_projects\lab3.1\lab3.1\main.cpp(8): message : см. объявление "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(203,21): error C2248: computer::videocard: невозможно обратиться к private член, объявленному в классе "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(15): message : см. объявление "computer::videocard"
+D:\My_projects\lab3.1\lab3.1\main.cpp(8): message : см. объявление "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(204,21): error C2248: computer::wifi: невозможно обратиться к private член, объявленному в классе "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(16): message : см. объявление "computer::wifi"
+D:\My_projects\lab3.1\lab3.1\main.cpp(8): message : см. объявление "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(205,21): error C2248: computer::price: невозможно обратиться к private член, объявленному в классе "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(17): message : см. объявление "computer::price"
+D:\My_projects\lab3.1\lab3.1\main.cpp(8): message : см. объявление "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(206,21): error C2248: computer::store: невозможно обратиться к private член, объявленному в классе "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(18): message : см. объявление "computer::store"
+D:\My_projects\lab3.1\lab3.1\main.cpp(8): message : см. объявление "computer"
+D:\My_projects\lab3.1\lab3.1\main.cpp(211,11): warning C4305: =: усечение из "double" в "float"
+D:\My_projects\lab3.1\lab3.1\main.cpp(162): fatal error C1075: "{": не найдена несоответствующая лексема
+  Создание кода...
